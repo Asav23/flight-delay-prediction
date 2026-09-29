@@ -97,6 +97,4 @@ jupyter notebook flight_delay_analysis.ipynb
 
 Python · Pandas · NumPy · scikit-learn · XGBoost · Matplotlib · Seaborn · Jupyter
 
----
 
-*Originally completed as university coursework (COMP30760); cleaned up for publication.*
